@@ -19,4 +19,11 @@ Afterwards enter the following command to build and install tabbed
 Running tabbed
 --------------
 See the man page for details.
+If using elh-dwm and elh-st, hitting Super + Enter will automatically opened a tabbed st.
 
+Changes from stock
+------------------
+1. Ctrl + Enter will open a new tab
+2. Comma and Period navigates tabs
+3. Ctrl + Q will close a tab 
+4. Ctrl + j/k will "rotate" tabs
