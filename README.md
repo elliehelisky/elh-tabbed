@@ -4,8 +4,7 @@ tabbed is a simple tabbed X window container.
 
 Requirements
 ------------
-In order to build tabbed you need the Xlib header files and Imlib2
-libxrandr-dev
+In order to build tabbed you need the Xlib header files
 
 Installation
 ------------
